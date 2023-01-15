@@ -1,0 +1,5 @@
+# > NeteaseMusic Unlock List
+# > All Nodes
+# > 2023.01.15
+proxies:
+  - {"server":"cu.2601.top","port":39000,"tls":false,"tfo":false,"udp":false,"name":"cu-xfc-ly","type":"http"}
